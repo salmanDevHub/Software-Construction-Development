@@ -68,14 +68,6 @@ The original brief is intentionally short. Therefore, additional requirements we
 
 # 4. Task 1 — Reconciled Work Breakdown Structure
 
-### Submission Marker
-
-`CSE325-2026-L03-T9WD-T1`
-
-### Configuration Key
-
-`SCOPE_LEDGER`
-
 The WBS was reviewed against the exact wording of the stakeholder brief.
 
 Each WBS item was classified as either:
@@ -117,14 +109,6 @@ The WBS was reconciled so that unsupported AI-generated scope was not silently t
 ---
 
 # 5. Task 2 — User Story Backlog and MoSCoW Prioritisation
-
-### Submission Marker
-
-`CSE325-2026-L03-T9WD-T2`
-
-### Configuration Key
-
-`SCOPE_LEDGER`
 
 The reconciled WBS was converted into user stories.
 
@@ -179,14 +163,6 @@ It takes priority over **US-08 (View Attendees)** because viewing attendees is a
 
 # 6. Task 3 — Local Context Requirement
 
-### Submission Marker
-
-`CSE325-2026-L03-T9WD-T3`
-
-### Configuration Key
-
-`SCOPE_LEDGER`
-
 A local requirement was introduced based on the actual device available for testing.
 
 ### Local Context
@@ -212,14 +188,6 @@ This demonstrates why human-provided local context is important during AI-assist
 ---
 
 # 7. Task 4 — Honest Prompt Ledger
-
-### Submission Marker
-
-`CSE325-2026-L03-T9WD-T4`
-
-### Configuration Key
-
-`SCOPE_LEDGER`
 
 The prompt ledger records the planning prompts and explains how the planning process evolved.
 
@@ -393,17 +361,3 @@ This approach prevents accidental scope expansion caused by AI-generated assumpt
 
 ---
 
-# 12. Submission Reference
-
-**Submission Reference:** `CSE325-2026-L03-T9WD`
-
-**Task 1:** `CSE325-2026-L03-T9WD-T1`
-**Task 2:** `CSE325-2026-L03-T9WD-T2`
-**Task 3:** `CSE325-2026-L03-T9WD-T3`
-**Task 4:** `CSE325-2026-L03-T9WD-T4`
-
-**Primary Configuration Key:** `SCOPE_LEDGER`
-
-Scope reconciled against the brief.
-
-CSE 325-2026-L03-T9WD.
